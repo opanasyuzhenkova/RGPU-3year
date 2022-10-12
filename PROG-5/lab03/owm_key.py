@@ -1,6 +1,3 @@
-
-
-
 answer_example = {
   'cod':
   '200',
