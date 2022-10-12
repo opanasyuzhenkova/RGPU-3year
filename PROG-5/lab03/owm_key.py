@@ -1,4 +1,4 @@
-owm_api_key = '3defadb4389fa1515382f7c0842b7c89'
+
 
 
 answer_example = {
